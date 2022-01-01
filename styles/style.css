@@ -1,0 +1,18 @@
+h1 {
+	background-color: aqua;
+	border-style: ridge;
+	border-color: violet;
+	color: white;
+	font-size: 36px;
+	font-family: cursive;
+	font-weight: bold;
+	padding: 8px;
+}
+
+ul {
+	background-color: deeppink;
+	color: cyan;
+	font-size: 16px;
+	font-family: fantasy;
+	margin: 8px;
+}
